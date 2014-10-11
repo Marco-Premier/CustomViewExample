@@ -51,7 +51,6 @@ public class MainActivity extends Activity {
 			}
 		});
 		mAnim.start();
-		mAnim.start();
 	}
 
 }
